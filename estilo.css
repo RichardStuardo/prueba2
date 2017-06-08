@@ -1,0 +1,19 @@
+body {
+
+  background-color: #3399ff
+}
+h1, h3{
+color: black;
+}
+
+.parrafo {
+  background: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 400px;
+  height: 50px
+}
+.click {
+  cursor: pointer;
+}
